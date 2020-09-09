@@ -42,6 +42,7 @@ AB_OTA_PARTITIONS += \
     dtbo \
     system \
     vbmeta \
+    vendor \
     modem \
     abl \
     bluetooth \
